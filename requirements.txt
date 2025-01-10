@@ -3,10 +3,11 @@ aiohttp
 apscheduler
 cachetools
 dnspython
-git+https://github.com/KurimuzonAkuma/pyrogram.git@dev
+git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
 motor
 psutil
 pyromod
 python-dotenv
 requests
 tgcrypto
+pytz
